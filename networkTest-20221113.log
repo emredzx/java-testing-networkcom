@@ -24,3 +24,55 @@
 2022-11-13 16:58:49.259 [main] INFO  org.emredzx.Log - showCart() method is PASSED
 2022-11-13 16:58:49.263 [main] INFO  org.emredzx.Log - Dropping items from cart and Validating the empty cart
 2022-11-13 16:58:53.714 [main] INFO  org.emredzx.Log - dropCart() method is PASSED
+2022-11-13 19:01:14.239 [main] INFO  org.emredzx.Log - Validating the correct URL
+2022-11-13 19:01:14.377 [main] INFO  org.emredzx.Log - validateHomePage() method is PASSED
+2022-11-13 19:01:14.381 [main] INFO  org.emredzx.Log - Searching 'ceket' entry
+2022-11-13 19:01:16.936 [main] INFO  org.emredzx.Log - searchProduct() method is PASSED
+2022-11-13 19:01:16.940 [main] INFO  org.emredzx.Log - Scrolling until the button
+2022-11-13 19:01:18.739 [main] INFO  org.emredzx.Log - scrollToElement() method is PASSED
+2022-11-13 19:01:18.741 [main] INFO  org.emredzx.Log - Checking the correct URL
+2022-11-13 19:01:18.746 [main] INFO  org.emredzx.Log - validateSearchPage() method is PASSED
+2022-11-13 19:01:18.747 [main] INFO  org.emredzx.Log - Hovering discounted item, Choosing the size and Changing to the cart
+2022-11-13 19:01:22.990 [main] INFO  org.emredzx.Log - hoverAndChoose() method is PASSED
+2022-11-13 19:01:22.992 [main] INFO  org.emredzx.Log - Checking price and size
+2022-11-13 19:01:23.059 [main] INFO  org.emredzx.Log - validateCheckout() method is PASSED
+2022-11-13 19:01:23.061 [main] INFO  org.emredzx.Log - Checking old and current price
+2022-11-13 19:01:23.061 [main] INFO  org.emredzx.Log - validatePrice() method is PASSED
+2022-11-13 19:01:23.062 [main] INFO  org.emredzx.Log - Clicking continue button
+2022-11-13 19:01:25.120 [main] INFO  org.emredzx.Log - continueCart() method is PASSED
+2022-11-13 19:01:25.121 [main] INFO  org.emredzx.Log - Reading data from .csv file and Placing to the right boxes
+2022-11-13 19:01:27.324 [main] INFO  org.emredzx.Log - writeLoginData() method is PASSED
+2022-11-13 19:01:27.326 [main] INFO  org.emredzx.Log - Checking login button
+2022-11-13 19:01:27.361 [main] INFO  org.emredzx.Log - checkLoginButton() method is PASSED
+2022-11-13 19:01:27.362 [main] INFO  org.emredzx.Log - Clicking Network logo and Returning to the homepage
+2022-11-13 19:01:30.591 [main] INFO  org.emredzx.Log - returnHomePage() method is PASSED
+2022-11-13 19:01:30.592 [main] INFO  org.emredzx.Log - Showing the cart
+2022-11-13 19:01:32.668 [main] INFO  org.emredzx.Log - showCart() method is PASSED
+2022-11-13 19:01:32.669 [main] INFO  org.emredzx.Log - Dropping items from cart and Validating the empty cart
+2022-11-13 19:01:37.078 [main] INFO  org.emredzx.Log - dropCart() method is PASSED
+2022-11-13 19:03:02.533 [main] INFO  org.emredzx.Log - Validating the correct URL
+2022-11-13 19:03:02.654 [main] INFO  org.emredzx.Log - validateHomePage() method is PASSED
+2022-11-13 19:03:02.658 [main] INFO  org.emredzx.Log - Searching 'ceket' entry
+2022-11-13 19:03:05.015 [main] INFO  org.emredzx.Log - searchProduct() method is PASSED
+2022-11-13 19:03:05.017 [main] INFO  org.emredzx.Log - Scrolling until the button
+2022-11-13 19:03:06.823 [main] INFO  org.emredzx.Log - scrollToElement() method is PASSED
+2022-11-13 19:03:06.825 [main] INFO  org.emredzx.Log - Checking the correct URL
+2022-11-13 19:03:06.830 [main] INFO  org.emredzx.Log - validateSearchPage() method is PASSED
+2022-11-13 19:03:06.831 [main] INFO  org.emredzx.Log - Hovering discounted item, Choosing the size and Changing to the cart
+2022-11-13 19:03:11.048 [main] INFO  org.emredzx.Log - hoverAndChoose() method is PASSED
+2022-11-13 19:03:11.050 [main] INFO  org.emredzx.Log - Checking price and size
+2022-11-13 19:03:11.115 [main] INFO  org.emredzx.Log - validateCheckout() method is PASSED
+2022-11-13 19:03:11.116 [main] INFO  org.emredzx.Log - Checking old and current price
+2022-11-13 19:03:11.117 [main] INFO  org.emredzx.Log - validatePrice() method is PASSED
+2022-11-13 19:03:11.118 [main] INFO  org.emredzx.Log - Clicking continue button
+2022-11-13 19:03:13.170 [main] INFO  org.emredzx.Log - continueCart() method is PASSED
+2022-11-13 19:03:13.172 [main] INFO  org.emredzx.Log - Reading data from .csv file and Placing to the right boxes
+2022-11-13 19:03:15.384 [main] INFO  org.emredzx.Log - writeLoginData() method is PASSED
+2022-11-13 19:03:15.386 [main] INFO  org.emredzx.Log - Checking login button
+2022-11-13 19:03:15.425 [main] INFO  org.emredzx.Log - checkLoginButton() method is PASSED
+2022-11-13 19:03:15.426 [main] INFO  org.emredzx.Log - Clicking Network logo and Returning to the homepage
+2022-11-13 19:03:18.643 [main] INFO  org.emredzx.Log - returnHomePage() method is PASSED
+2022-11-13 19:03:18.645 [main] INFO  org.emredzx.Log - Showing the cart
+2022-11-13 19:03:20.722 [main] INFO  org.emredzx.Log - showCart() method is PASSED
+2022-11-13 19:03:20.723 [main] INFO  org.emredzx.Log - Dropping items from cart and Validating the empty cart
+2022-11-13 19:03:25.135 [main] INFO  org.emredzx.Log - dropCart() method is PASSED
